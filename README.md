@@ -30,7 +30,7 @@
   <section id="about">
     <h2>À propos de moi</h2>
     <p>Je suis un développeur web avec une expérience dans la création de sites responsive et interactifs...
-      J'ai beaucoup de compétences et connaissances dans ce domaine, j'ai des compétences dans le réseau, la virtualisation, Active Directory, GLPI.</p>
+      J'ai beaucoup de compétences et connaissances dans ce domaine, j'ai des compétences dans le réseau, la virtualisation, Active Directory, GLPI, HTML, CSS, Git, PHP, Python.</p>
   </section>
 
   <section id="projects">
